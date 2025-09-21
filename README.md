@@ -1,6 +1,10 @@
 # Local Voice AI Agent
 
+![image](https://i.ytimg.com/vi/M6vI4Wk-Y4Q/maxresdefault.jpg)
+
 A real-time voice chat application powered by local AI models. This project allows you to have voice conversations with AI models like Gemma running locally on your machine.
+
+Video tutorial by [Jesús Copado](https://www.youtube.com/@jesuscopado-en) [Local Voice AI Agent in 19 lines of Python](https://www.youtube.com/watch?v=M6vI4Wk-Y4Q)
 
 ## Features
 
